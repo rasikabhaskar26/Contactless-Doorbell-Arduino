@@ -1,4 +1,4 @@
-# Contactless Doorbell Using Arduino
+# Contactless Doorbell System
 
 ## Project Overview
 This project is a contactless doorbell system developed using Arduino Uno and an HC-SR04 ultrasonic sensor. It detects a person's hand without physical contact and activates a buzzer, making it suitable for touch-free doorbell applications.
